@@ -9,7 +9,7 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-green)
-#### Here is my projects using Spring, RESTAPI, Hibernate, PostgreSQL:<br>
+#### Here is my projects using Spring, Rest API, Hibernate, PostgreSQL, Microservice, Maven, Git:<br>
 1. [URL Shortcut service](https://github.com/AndrewBurUU/job4j_url_shortcut)
 2. [Car accident registration app](https://github.com/AndrewBurUU/job4j_accidents)
 3. [Car market](https://github.com/AndrewBurUU/job4j_cars)
