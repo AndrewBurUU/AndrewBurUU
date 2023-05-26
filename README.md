@@ -9,12 +9,12 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-green)
-#### Here is my projects:<br>
-1. [URL Shortcut service using Spring](https://github.com/AndrewBurUU/job4j_url_shortcut)
-2. [Car accident registration app using Spring](https://github.com/AndrewBurUU/job4j_accidents)
-3. [Car market using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_cars)
-4. [Job market using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_dreamjob)
-5. [TodoList using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_todo)
+#### Here is my projects using Spring, RESTAPI, Hibernate, PostgreSQL:<br>
+1. [URL Shortcut service](https://github.com/AndrewBurUU/job4j_url_shortcut)
+2. [Car accident registration app](https://github.com/AndrewBurUU/job4j_accidents)
+3. [Car market](https://github.com/AndrewBurUU/job4j_cars)
+4. [Job market](https://github.com/AndrewBurUU/job4j_dreamjob)
+5. [TodoList](https://github.com/AndrewBurUU/job4j_todo)
 6. [Cinema "Baikal"](https://github.com/AndrewBurUU/job4j_cinema)
 7. [Job grabber(HTML Parser)](https://github.com/AndrewBurUU/job4j_grabber)
 8. [Tracker List](https://github.com/AndrewBurUU/job4j_tracker)
