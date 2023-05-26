@@ -9,7 +9,14 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-green)
-#### Here is my study projects:<br>
-1. [Cinema "Baikal"](https://github.com/AndrewBurUU/job4j_cinema)<br><br>
+#### Here is my projects:<br>
+1. [URL Shortcut service using Spring](https://github.com/AndrewBurUU/job4j_url_shortcut)
+2. [Car accident registration app using Spring](https://github.com/AndrewBurUU/job4j_accidents)
+3. [Car market using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_cars)
+4. [Job market using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_dreamjob)
+5. [TodoList using Servlet API & Hibernate](https://github.com/AndrewBurUU/job4j_todo)
+6. [Cinema "Baikal"](https://github.com/AndrewBurUU/job4j_cinema)
+7. [Job grabber(HTML Parser)](https://github.com/AndrewBurUU/job4j_grabber)
+8. [Tracker List](https://github.com/AndrewBurUU/job4j_tracker)<br><br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AndrewBurUU&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewBurUU&layout=compact)](https://github.com/AndrewBurUU/github-readme-stats)
