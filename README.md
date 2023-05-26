@@ -1,8 +1,8 @@
 ### Hi!👋 My name is Andrew. Welcome! ✌️ <br><br>
-## About me
+#### About me
 - I'm Java programmer from Ulan-Ude 💻
 - I learn Java at [Job4j](https://job4j.ru/) since 2020 ☕<br><br>
-<b> Core technologies: </b><br>
+#### Core technologies:<br>
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D2-brightgreen)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D5-yellow)
