@@ -14,15 +14,16 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-green)
 
 #### Here is my projects:<br>
-1. [URL Shortcut service](https://github.com/AndrewBurUU/job4j_url_shortcut)
-2. [Car accident registration app](https://github.com/AndrewBurUU/job4j_accidents)
-3. [Car market](https://github.com/AndrewBurUU/job4j_cars)
-4. [Job market](https://github.com/AndrewBurUU/job4j_dreamjob)
-5. [TodoList](https://github.com/AndrewBurUU/job4j_todo)
-6. [Cinema "Baikal"](https://github.com/AndrewBurUU/job4j_cinema)
-7. [Job grabber(HTML Parser)](https://github.com/AndrewBurUU/job4j_grabber)
-8. [Tracker List](https://github.com/AndrewBurUU/job4j_tracker)
-9. [etc](https://github.com/AndrewBurUU?tab=repositories)<br><br>
+1. [Human Resources services project](https://github.com/AndrewBurUU/hunt4.pro/tree/develop)
+2. [URL Shortcut service](https://github.com/AndrewBurUU/job4j_url_shortcut)
+3. [Car accident registration app](https://github.com/AndrewBurUU/job4j_accidents)
+4. [Car market](https://github.com/AndrewBurUU/job4j_cars)
+5. [Job market](https://github.com/AndrewBurUU/job4j_dreamjob)
+6. [TodoList](https://github.com/AndrewBurUU/job4j_todo)
+7. [Cinema "Baikal"](https://github.com/AndrewBurUU/job4j_cinema)
+8. [Job grabber(HTML Parser)](https://github.com/AndrewBurUU/job4j_grabber)
+9. [Tracker List](https://github.com/AndrewBurUU/job4j_tracker)
+10. [etc](https://github.com/AndrewBurUU?tab=repositories)<br><br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AndrewBurUU&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewBurUU&layout=compact)](https://github.com/AndrewBurUU/github-readme-stats)
