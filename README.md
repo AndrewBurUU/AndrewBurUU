@@ -14,7 +14,7 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-green)
 
 #### Here is my projects:<br>
-1. [Human Resources services project](https://github.com/AndrewBurUU/hunt4.pro/tree/develop)
+1. [Human Resources project](https://github.com/AndrewBurUU/hunt4.pro/tree/develop)
 2. [URL Shortcut service](https://github.com/AndrewBurUU/job4j_url_shortcut)
 3. [Car accident registration app](https://github.com/AndrewBurUU/job4j_accidents)
 4. [Car market](https://github.com/AndrewBurUU/job4j_cars)
