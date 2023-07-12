@@ -2,7 +2,7 @@
 
 #### About me
 - I'm Java programmer from Ulan-Ude 💻
-- I learn Java at [Job4j](https://job4j.ru/) since 2020 ☕
+- I learn Java since 2020 ☕
 
 ---
 <b>Core technologies:</b>
