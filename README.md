@@ -1,7 +1,7 @@
 ### Hi!👋 My name is Andrew. Welcome! ✌️ <br><br>
 
 #### About me
-- I'm Java programmer from Ulan-Ude 💻
+- I'm Java programmer 💻
 - I learn Java since 2020 ☕
 
 ---
